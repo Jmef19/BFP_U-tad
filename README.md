@@ -1,6 +1,7 @@
 # ANALYZING AND VISUALIZING DEMOGRAPHIC CHANGE IN SPAIN: AGING, MIGRATION TRENDS, AND POPULATION FORECASTING
 ## Bachelor Final Project for Degree in computer science with minor in data engineering at U-Tad
 ### Developed by Juan Manuel Escudero Fernández
+#### [Notebook Link](https://nbviewer.org/github/Jmef19/BFP_U-tad/blob/main/u-tad-bfp-demographic-analysis-and-forecasting.ipynb)
 This Bachelor Final Project analyzes population trends in Spain between 1998 and 2022, with a primary focus on exploratory data analysis (EDA) and a complementary forecasting approach. Using Python-based tools, including pandas and matplotlib, within a Jupyter notebook environment hosted on Kaggle a number of visualizations were developed to examine demographic structure, regional distribution, and temporal
 evolution.
 
